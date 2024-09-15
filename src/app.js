@@ -1,12 +1,11 @@
-const fs = require('fs');
 const path = require('path');
-const csv = require('csv-parser');
-const { getZipFiles, getCsvFiles, parseCsvData, unpackZipFile, updateOuptutFile } = require('./utils/functions');
-const { spawn } = require('child_process');
+const { getZipFiles, getCsvFiles, parseCsvData, unpackZipFile, updateOuptutFile, createRepositories } = require('./utils/functions');
 
 const dataFolder = path.join(__dirname, '../data/');
 const outputFile = path.join(__dirname, '../output/output.json');
 const biomesFile = path.join(__dirname, './utils/biomes_data.csv');
+
+createRepositories()
 
 getZipFiles(dataFolder)
   .then(zipFiles => {

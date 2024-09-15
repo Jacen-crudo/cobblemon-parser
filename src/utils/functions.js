@@ -2,7 +2,25 @@ const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
 const decompress = require('decompress');
-const { error } = require('console');
+
+const requiredFolders = [
+  path.join(__dirname, '../../data'),
+  path.join(__dirname, '../../output')
+]
+
+function createRepositories() {
+  requiredFolders.forEach(folder => {
+    if(fs.existsSync(folder)) {
+      console.log(`${folder} exists!`)
+    }
+    else {
+      fs.mkdir(folder, (err) => {
+        if (err) return err;
+        console.log(`${folder} was created!`)
+      })
+    }
+  })
+}
 
 function getZipFiles(folderPath) {
   return new Promise((resolve, reject) => {
@@ -109,7 +127,7 @@ function getBiomes(filePath) {
 function parseCsvData(fileName, biomesFile) {
   return new Promise((resolve, reject) => {
     const results = [];
-    const idSourceName = fileName.toLowerCase().replace('.csv', ''); 
+    const idSourceName = fileName.toLowerCase().replace('.csv', '').replace(/[^a-zA-Z0-9 ]/g, '').replace(/\s/g, '_'); 
   
     getBiomes(biomesFile)
       .then(biomes => {
@@ -166,5 +184,6 @@ module.exports = {
     getCsvFiles,
     unpackZipFile,
     updateOuptutFile,
-    parseCsvData
+    parseCsvData,
+    createRepositories
 }
