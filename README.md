@@ -4,8 +4,8 @@ Parse Cobblemon spawn data into one single output file! This code requires [Node
 ## Installation Instructions
 1. Open Terminal
 2. Change the current working directory to the location where you want the cloned directory
-3. Type **git clone**, and then paste the URL you copied earlier.
-> git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+3. Paste the code below to clone to a local repository
+> git clone https://github.com/Jacen-crudo/cobblemon-parser.git
 
 4. Press **Enter** to create your local clone
 
