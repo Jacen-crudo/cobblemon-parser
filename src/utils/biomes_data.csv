@@ -1,0 +1,584 @@
+Biome,Qualifying locations,Established by
+Arid,All Sandy biomes,Cobblemon
+,All Savanna biomes,
+Badlands,All vanilla Badlands biomes,Vanilla Minecraft
+,Ashen Savanna,Terralith
+,Red Oasis,
+,Warped Mesa,
+,White Mesa,
+,Danakil Desert,Wythers' Overhauled Overworld
+Beach,All vanilla Beach biomes,Vanilla Minecraft
+,Guelta,Wythers' Overhauled Overworld
+,Sand Dunes,
+Cave,Dripstone Caves,Vanilla Minecraft
+,Lush Caves,
+,Andesite Caves,Terralith
+,Desert Caves,
+,Diorite Caves,
+,Fungal Caves,
+,Granite Caves,
+,Infested Caves,
+,Thermal Caves,
+,Underground Jungle,
+Coast,Stony Shore,Vanilla Minecraft
+,All Beach biomes,Cobblemon
+,Basalt Cliffs,Terralith
+,Granite Cliffs,
+,White Cliffs,
+,Calcite Coast,Wythers' Overhauled Overworld
+,Coastal Mangroves,
+,Cold Island,
+,Cold Stony Shore,
+,Deepslate Shore,
+,Frigid Island,
+,Frozen Island,
+,Gravelly Beach,
+,Icy Shore,
+,Mediterranean Island,
+,Temperate Island,
+,Tropical Island,
+,Warm Stony Shore,
+Cold,All Cold Ocean biomes,Cobblemon
+,All Freezing biomes,
+,All Peak biomes,
+,All Taiga biomes,
+,All Tundra biomes,
+,All BYG Cold biomes,Oh The Biomes You'll Go
+,Berry Bog,Wythers' Overhauled Overworld
+Deep Dark,Deep Dark,Vanilla Minecraft
+,Crystal Caves,Terralith
+,Deep Caves,
+,Frostfire Caves,
+,Mantle Caves,
+,Tuff Caves,
+,Deep Dark Forest,Wythers' Overhauled Overworld
+,Deep Dark Incursion,
+Deep Ocean,All vanilla Deep Ocean biomes,Vanilla Minecraft
+,Deep Icy Ocean,Wythers' Overhauled Overworld
+Desert,Desert,Vanilla Minecraft
+,All BYG desert biomes,Oh The Biomes You'll Go
+,Ancient Sands,Terralith
+,Desert Canyon,
+,Desert Caves,
+,Desert Oasis,
+,Desert Spires,
+,Lush Desert,
+,Red Oasis,
+,All Wythers' desert biomes,Wythers' Overhauled Overworld
+,Badlands Desert,
+,Desert Island,
+,Kwongan Heath,
+,Outback Desert,
+,Red Desert,
+,Sandy Jungle,
+Dripstone,Dripstone Caves,Vanilla Minecraft
+,Fractured Savanna,Terralith
+,Stony Spires,
+,Fungous Dripstone Caves,Wythers' Overhauled Overworld
+,Lichenous Dripstone Caves,
+,Lush Dripstone Caves,
+,Lush Fungous Dripstone Caves,
+,Mossy Dripstone Caves,
+Floral,Cherry Grove,Vanilla Minecraft
+,Flower Forest,
+,Meadow,
+,Sunflower Plains,
+,All BYG Floral biomes,Oh The Biomes You'll Go
+,Amaranth Fields,
+,Alluim Fields,
+,Rose Fields,
+,Skyris Vale,
+,Cherry Blossom Forest,
+,Orchard,
+,Blooming Plateau,Terralith
+,Blooming Valley,
+,Lavender Forest,
+,Lavender Valley,
+,Sakura Grove,
+,Sakura Valley,
+,Autumnal Flower Forest,Wythers' Overhauled Overworld
+,Flowering Pantanal,
+,Jacaranda Savanna,
+,Lapacho Plains,
+,Sakura Forest,
+,Spring Flower Fields,
+,Spring Flower Forest,
+Forest,All vanilla Forest biomes,Vanilla Minecraft
+,Cherry Grove,
+,Alpha Islands,Terralith
+,Alpha Islands Winter,
+,Blooming Valley,
+,Forested Highlands,
+,Lavender Forest,
+,Lavender Valley,
+,Mirage Isles,
+,Sakura Grove,
+,Sakura Valley,
+,Temperate Highlands,
+,Dry Tropical Forest,Wythers' Overhauled Overworld
+,Birch Taiga,
+,Boreal Forest Red,
+,Boreal Forest Yellow,
+,Subtropical Forest,
+,Tangled Forest,
+,Tropical Forest,
+Freezing,Frozen River,Vanilla Minecraft
+,Jagged Peaks,
+,Snowy Beach,
+,Snowy Plains,
+,Snowy Slopes,
+,All Frozen Ocean biomes,Cobblemon
+,All Glacial biomes,
+,All Snowy Forest biomes,
+,All BYG Snowy biomes,Oh The Biomes You'll Go
+,Cardinal Tundra,
+,Emerald Peaks,Terralith
+,Scarlet Mountains,
+,Skylands Winter,
+,Snowy Badlands,
+,Crimson Tundra,Wythers' Overhauled Overworld
+,Frozen Island,
+,Snowy Bog,
+,Snowy Canyon,
+,Snowy Peaks,
+,Snowy Tundra,
+Freshwater,All River biomes,Cobblemon
+,All Swamp biomes,
+,Desert Lakes,Wythers' Overhauled Overworld
+,Guelta,
+,Tropical Forest River,
+Frozen Ocean,Deep Frozen Ocean,Vanilla Minecraft
+,Frozen Ocean,
+,Frozen Cliffs,Terralith
+,Deep Icy Ocean,Wythers' Overhauled Overworld
+,Icy Ocean,
+Glacial,Frozen Peaks,Vanilla Minecraft
+,Ice Spikes,
+,All BYG Icy biomes,Oh The Biomes You'll Go
+,Frostfire Caves,Terralith
+,Frozen Cliffs,
+,Glacial Chasm,
+,Glacial Cliffs,Wythers' Overhauled Overworld
+,Ice Cap,
+,Icy Crags,
+,Frozen Island,
+Grassland,All Plains biomes,Cobblemon
+,All Savanna biomes,
+Highlands,Meadow,Vanilla Minecraft
+,Alpine Highlands,Terralith
+,Arid Highlands,
+,Blooming Plateau,
+,Highlands,
+,Bamboo Jungle Highlands,Wythers' Overhauled Overworld
+,Eucalyptus Deanei Forest,
+,Forested Highlands,
+,Highlands,
+,Huangshan Highlands,
+,Hughland Tropical Rainforest,
+,Jade Highlands,
+,Wistman Woods,
+Hills,All vanilla Hills biomes,Vanilla Minecraft
+,All Highlands biomes,Cobblemon
+,Blooming Valley,Terralith
+,Forested Highlands,
+,Lavender Valley,
+,Lush Valley,
+,Moonlight Valley,
+,Sakura Valley,
+,Savanna Slopes,
+,Temperate Highlands,
+,Yosemite Lowlands,
+,Autumnal Crags,Wythers' Overhauled Overworld
+,Ayers Rock,
+,Icy Crags,
+,Old Growth Taiga Crags,
+,Taiga Crags,
+,Temperate Rainforest Crags,
+,Thermal Taiga Crags,
+,Windswept Jungle,
+Island,Mushroom Fields,Vanilla Minecraft
+,All Tropical Island biomes,Cobblemon
+,Lush Stacks,Oh The Biomes You'll Go
+,Alpha Islands,Terralith
+,Alpha Islands Winter,
+,Mirage Isles,
+,Warped Mesa,
+,Cold Island,Wythers' Overhauled Overworld
+,Desert Island,
+,Frigid Island,
+,Frozen Island,
+,Jungle Island,
+,Mediterranean Island,
+,Mediterranean Island Thermal Springs,
+,Mushroom Island,
+,Temperate Island,
+,Tropical Island,
+Jungle,All vanilla Jungle biomes,Vanilla Minecraft
+,Underground Jungle,Terralith
+,Dripleaf Swamp,Wythers' Overhauled Overworld
+,Eucalyptus Deanei Forest,
+,Highland Tropical Rainforest,
+,Humid Tropical Grassland,
+,Jungle Canyon,
+,Subtropical Forest,
+,Subtropical Forest Edge,
+,Subtropical Grassland,
+,Tropical Forest,
+,Tropical Forest Canyon,
+,Tropical Grassland,
+,Tropical Island,
+,Tropical Rainforest,
+Lukewarm Ocean,Deep Lukewarm Ocean,Vanilla Minecraft
+,Lukewarm Ocean,
+Lush,Lush Caves,Vanilla Minecraft
+,Lush Stacks,Oh The Biomes You'll Go
+,Underground Jungle,Terralith
+,Lichenous Caves,Wythers' Overhauled Overworld
+,Lichenous Dripstone Caves,
+,Lush Dripstone Caves,
+,Lush Fungous Dripstone Caves,
+,Lush Shroom Caves,
+Magical,Dark Forest,Vanilla Minecraft
+,All BYG Magical biomes,Oh The Biomes You'll Go
+,Skyris Vale,
+,All Wythers' Dark Forest biomes,Wythers' Overhauled Overworld
+,Lantern River,
+,Mushroom Island,
+,Snowy Thermal Taiga,
+,Amethyst Canyon,Terralith
+,Amethyst Rainforest,
+,Mirage Isles,
+,Moonlight Grove,
+,Moonlight Valley,
+Mountain,All vanilla Mountain biomes,Vanilla Minecraft
+,All Hill biomes,Cobblemon
+,Stony Spires,Terralith
+,Volcanic Peaks,
+,Windswept Spires,
+,Yosemite Cliffs,
+,Tibesti Mountains,Wythers' Overhauled Overworld
+,Tropical Volcano,
+,Tsingy Forest,
+,Volcano,
+Mushroom,Dark Forest,Vanilla Minecraft
+,Mushroom Fields,
+,Fungal Caves,Terralith
+,Mirage Isles,
+,Ancient Taiga,Wythers' Overhauled Overworld
+,Deep Dark Incursion,
+Ocean,All vanilla Ocean biomes,Vanilla Minecraft
+,All Coast biomes,Cobblemon
+,All Cold Ocean biomes,
+,All Deep Ocean biomes,
+,All Frozen Ocean biomes,
+,All Lukewarm Ocean biomes,
+,All Warm Ocean biomes,
+Peak,Frozen Peaks,Vanilla Minecraft
+,Jagged Peaks,
+,Snowy Slopes,
+,Stony Peaks,
+,Emerald Peaks,Terralith
+,Rocky Mountains,
+,Scarlet Mountains,
+,Windswept Spires,
+,Andesite Crags,Wythers' Overhauled Overworld
+,Aspen Crags,
+Plains,Plains,Vanilla Minecraft
+,Sunflower Plains,
+,All Highlands biomes,Cobblemon
+,All BYG Plains biomes,Oh The Biomes You'll Go
+,Brushland,Terralith
+,Steppe,
+,Valley Clearing,
+,Berry Bog,Wythers' Overhauled Overworld
+,Cool Forest Edge,
+,Dry Tropical Grassland,
+,Forest Edge,
+,Spring Flower Fields,
+,Subtropical Forest Edge,
+,Tropical Grassland,
+Plateau,Savanna Plateau,Vanilla Minecraft
+,All BYG Plateau,Oh The Biomes You'll Go
+,Ayers Rock,Wythers' Overhauled Overworld
+River,All vanilla River biomes,Vanilla Minecraft
+,Warm River,Warm River
+,Guelta,Wythers' Overhauled Overworld
+,Tropical Forest River,
+Salt,Calcite Caverns,Wythers' Overhauled Overworld
+,Calcite Coast,
+,Mediterranean Island Thermal Spring,
+,Salt Lakes Pink,
+,Salt Lakes Turquoise,
+,Salt Lakes White,
+,Thermal Taiga,
+Sandy,All Badlands biomes,Cobblemon
+,All Desert biomes,
+,All BYG Sandy biomes,Oh The Biomes You'll Go
+Savanna,All vanilla Savanna biomes,Vanilla Minecraft
+,Arid Highlands,Terralith
+,Ashen Savanna,
+,Brushland,
+,Desert Oasis,
+,Fractured Savanna,
+,Hot Shrubland,
+,Red Oasis,
+,Savanna Badlands,
+,Svanna Slopes,
+,Shrublands,
+,Granite Canyon,Wythers' Overhauled Overworld
+,Tropical Forest Canyon,
+,Tropical Forest,
+Sky,Skylands Autumn,Terralith
+,Skylands Spring,
+,Skylands Summer,
+,Skylands Winter,
+Snowy Forest,Grove,Vanilla Minecraft
+,Snowy Taiga,
+,Alpha Islands Winter,Terralith
+,Alpine Grove,
+,Ice Marsh,
+,Siberian Grove,
+,Snowy Maple Forest,
+,Snowy Shield,
+,Wintry Forest,
+,Wintry Lowlands,
+,Deep Snowy Taiga,Wythers' Overhauled Overworld
+,Huangshan Highlands,
+,Jade Highlands,
+,Snowy Fen,
+,Snowy Thermal Taiga,
+Spooky,Dark Forest,Vanilla Minecraft
+,All BYG Spooky biomes,Oh The Biomes You'll Go
+,Ebony Woods,
+,All Wythers' Dark Forest biomes,Wythers' Overhauled Overworld
+,Ancient Taiga,
+,Bayou,
+,Tangled Forest,
+Swamp,Mangrove Swamp,Vanilla Minecraft
+,Swamp,
+,All BYG Swamp biomes,Oh The Biomes You'll Go
+,All Wythers' Swamp biomes,Wythers' Overhauled Overworld
+,Billabong,
+,Ice Marsh,Terralith
+,Orchid Swamp,
+Taiga,All vanilla Taiga biomes,Vanilla Minecraft
+,Grove,
+,Alpine Grove,Terralith
+,Haze Mountain,
+,Ice Marsh,
+,Moonlight Grove,
+,Moonlight Valley,
+,Shield Clearing,
+,Siberian Grove,
+,Siberian Taiga,
+,Snowy Maple Forest,
+,Snowy Shield,
+,Wintry Lowlands,
+,Ancient Taiga,Wythers' Overhauled Overworld
+,Birch Taiga,
+,Boreal Forest Red,
+,Boreal Forest Yellow,
+,Cold Island,
+,Deep Snowy Taiga,
+,Fen,
+,Flooded Temperate Rainforest,
+,Forested Highlands,
+,Huangshan Highlands,
+,Jade Highlands,
+,Larch Taiga,
+,Old Growth Taiga Crags,
+,Old Growth Taiga Swamp,
+,Pine Barrens,
+,Temperate Rainforest,
+,Temperate Rainforest Crags,
+,Thermal Taiga,
+,Thermal Taiga Crags,
+,Snowy Thermal Taiga,
+Temperate,All Forest biomes,Cobblemon
+,All Plains biomes,
+Thermal,Caldera,Terralith
+,Thermal Caves,
+,Yellowstone,
+,Calcite Caverns,Wythers' Overhauled Overworld
+,Mediterranean Island Thermal Springs,
+,Snowy Thermal Taiga,
+,Thermal Taiga Crags,
+,Thermal Taiga,
+,Tibesti Mountains,
+,Danakil Desert,
+Tropical Island,Tropical Beach,Wythers' Overhauled Overworld
+,Tropical Island,
+,Tropical Volcano,
+Tundra,Ice Spikes,Vanilla Minecraft
+,Snowy Plains,
+,Cardinal Tundra,Oh The Biomes You'll Go
+,Cold Shrubland,Terralith
+,Gravel Desert,
+,Rocky Shrubland,
+,Snowy Badlands,
+,Yellowstone,
+,Crimson Tundra,Wythers' Overhauled Overworld
+,Frigid Island,
+,Ice Cap,
+,Icy Crags,
+,Snowy Tundra,
+,Tundra,
+Volcanic,Mantle Caves,Terralith
+,Volcanic Crater,
+,Volcanic Peaks,
+,Icy Volcano,Wythers' Overhauled Overworld
+,Tropical Volcano,
+,Volcano,
+,Volcanic Chamber,
+,Volcanic Crater,
+Warm Ocean,Warm Ocean,Vanilla Minecraft
+,Lush Stacks,Terralith
+Overworld,All vanilla Overworld biomes,Vanilla Minecraft
+,All Arid biomes,Cobblemon
+,All Cave biomes,
+,All Coast biomes,
+,All Cold biomes,
+,All Deep Dark biomes,
+,All Floral biomes,
+,All Forest biomes,
+,All Freshwater biomes,
+,All Grassland biomes,
+,All Highlands biomes,
+,All Island biomes,
+,All Jungle biomes,
+,All Magical biomes,
+,All Mountain biomes,
+,All Mushroom biomes,
+,All Ocean biomes,
+,All Sky biomes,
+,All Spooky biomes,
+,All Temperate biomes,
+,All Thermal biomes,
+,All Volcanic biomes,
+End,All vanilla End biomes,Vanilla Minecraft
+Nether,All vanilla Nether biomes,Vanilla Minecraft
+Nether Basalt,Basalt Deltas,Vanilla Minecraft
+,Blackstone Shales,Cinderscapes
+,Ash Barrens,Incendium
+,Volcanic Deltas,
+,Withered Forest,
+Nether Crimson,Crimson Forest,Vanilla Minecraft
+,Crimson Glowing Woods,BetterNether
+,Crimson Pinewood,
+,Nether Swampland,
+,Nether Swampland Terraces,
+,Crimson Gardens,Oh The Biomes You'll Go
+,Whistling Woods,Gardens of the Dead
+Nether Desert,Soul Sand Valley,Vanilla Minecraft
+,Gravel Desert,BetterNether
+,Quartz Desert,Oh The Biomes You'll Go
+,Warped Desert,
+,Infernal Dunes,Incendium
+,Weeping Valley,
+Nether Forest,Nether Jungle,BetterNether
+,Nether Swampland,
+,Nether Swampland Terraces,
+,Weeping Mire,Oh The Biomes You'll Go
+,Withering Woods,
+Nether Frozen,Subzero Hypogeal,Oh The Biomes You'll Go
+Nether Fungus,Crimson Forest,Vanilla Minecraft
+,Warped Forest,
+,Crimson Glowing Woods,BetterNether
+,Crimson Pinewood,
+,Mushroom Forest,
+,Mushroom Forest Edge,
+,Old Fungiwoods,
+,Old Warped Woods,
+,Crimson Gardens,Oh The Biomes You'll Go
+,Embur Bog,
+,Glowstone Garden,
+,Wailing Garth,
+,Luminous Grove,Cinderscapes
+,Whistling Woods,Gardens of the Dead
+,Soulblight Forest,
+,Inverted Forest,Incendium
+Nether Mountain,Basalt Deltas,Vanilla Minecraft
+,Volcanic Deltas,Incendium
+Nether Overgrowth,Bone Reef,BetterNether
+,Nether Grasslands,
+,Soul Plain,
+,Sulfuric Bone Reef,
+,Sythian Torrids,Oh The Biomes You'll Go
+Nether Quartz,Quartz Desert,Oh The Biomes You'll Go
+,Quartz Cavern,Cinderscapes
+,Quartz Flats,Incendium
+Nether Soul Fire,Soul Sand Valley,Vanilla Minecraft
+,Subzero Hypogeal,Oh The Biomes You'll Go
+,Warped Desert,
+,Quartz Flats,Incendium
+,Weeping Valley,
+Nether Soul Sand,Soul Sand Valley,Vanilla Minecraft
+,Soul Plain,BetterNether
+,Wart Forest,
+,Wart Forest Edge,
+,Wailing Garth,Oh The Biomes You'll Go
+,Warped Desert,
+,Ashy Shoals,Cinderscapes
+,Blackstone Shales,
+,Soulblight Forest,Gardens of the Dead
+,Weeping Valley,Incendium
+Nether Toxic,Brimstone Caverns,Oh The Biomes You'll Go
+,Wailing Garth,
+,Toxic Heap,Incendium
+Nether Warped,Warped Forest,Vanilla Minecraft
+,Nether Jungle,BetterNether
+,Old Warped Woods,
+,Wailing Garth,Oh The Biomes You'll Go
+,Warped Desert,
+Nether Wasteland,Nether Wastes,Vanilla Minecraft
+,Magma Land,BetterNether
+,Poor Nether Grasslands,
+,Brimstone Caverns,Oh The Biomes You'll Go
+,Magma Wastes,
+,Ashy Shoals,Cinderscapes
+,Quartz Cavern,
+,Ash Barrens,Incendium
+,Toxic Heap,
+Bumblezone,Hive Pillar,The Bumblezone
+,Hive Wall,
+,Pollinated Fields,
+,Pollinated Pillar,
+,Sugar Water Floor,
+,Crystal Canyon,
+,Floral Meadow,
+,Howling Constructs,
+Autumn,All Arid biomes,Cobblemon
+,All Cold Ocean biomes,
+,All Mountain biomes,
+,All Mushroom biomes,
+,All Taiga biomes,
+,Skylands Autumn,Terralith
+,Autumnal Birch Forest,Wythers' Overhauled Overworld
+,Autumnal Crags,
+,Autumnal Flower Forest,
+,Autumnal Forest Edge,
+,Autumnal Forest,
+,Autumnal Plains,
+,Autumnal Swamp,
+,Harvest Fields,
+Spring,All Floral biomes,Cobblemon
+,All Lukewarm Ocean biomes,
+,All Magical biomes,
+,All Plains biomes,
+,Skylands Spring,Terralith
+,Spring Flower Fields,Wythers' Overhauled Overworld
+,Spring Flower Forest,
+Summer,All Forest biomes,Cobblemon
+,All Jungle biomes,
+,All Lush biomes,
+,All Warm Ocean biomes,
+,All Swamp biomes,
+,Skylands Summer,Terralith
+Winter,All Freezing biomes,Cobblemon
+,Skylands Winter,Terralith
+Dense,Dark Forest,Vanilla Minecraft
+,Mangrove Swamp,
+,All Jungle biomes,Cobblemon
+Sparse,All Arid biomes,Cobblemon
+,All Grassland biomes,
+,All Tundra biomes,
