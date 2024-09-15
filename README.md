@@ -1,5 +1,9 @@
 # COBBLEMON PARSER
-Parse Cobblemon spawn data into one single output file! This code requires [NodeJS](https://nodejs.org/en/download/package-manager) v20.5.1 or later.
+Parse Cobblemon spawn data into one single output file!
+
+#### NPM Packages
+- [Node v20.5.1](https://nodejs.org/en/download/package-manager) or later.
+- [cvs-parser](https://www.npmjs.com/package/csv-parser)
 
 ## Installation Instructions
 1. Open Terminal
