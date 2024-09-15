@@ -12,7 +12,7 @@ Parse Cobblemon spawn data into one single output file! This code requires [Node
 5. Run **npm install** in the terminal
 > npm install
 
-6. Run **'npm run start'** or **'npm run dev'** to initialize the **'data'** and **'output'** folders
+6. Run **npm run start** or **npm run dev** to initialize the **'data'** and **'output'** folders
 > npm run start
 
 6. Place the entire Mod's .zip or .csv file in the **'data'** folder
@@ -22,7 +22,7 @@ Parse Cobblemon spawn data into one single output file! This code requires [Node
 
 7. ***(optional)*** For updated biome information by cobblemon update **'/src/utils/biomes_data.csv'** with [Cobblemon Spawn Definition](https://wiki.cobblemon.com/index.php/Pok%C3%A9mon/Spawning/Spawn_Definitions)
 
-8. run **'npm run start'** or **'npm run dev'** to start the file
+8. run **npm run start** or **npm run dev** to start the file
 > npm run start
 
 9. Get the updated file from **'/output/output.json'**
